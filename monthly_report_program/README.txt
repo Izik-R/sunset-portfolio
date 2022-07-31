@@ -1,3 +1,5 @@
+# Launch the monthlypull.py and follow the prompts in the terminal.
+
 # The files recorded in the folder all work together, and create 2 CSV files. 
 
 # Both CSV files are for a crypto asset Cosmos ($ATOM). For API info please see the API_INFO file in this repository
