@@ -1,4 +1,6 @@
-# Launch the monthlypull.py and follow the prompts in the terminal.
+# Launch the up_monthly_pull.py and follow the prompts in the terminal.
+
+# This file will have previously used 'final' products so you're able to see progression in the code over time.
 
 # The files recorded in the folder all work together, and create 2 CSV files. 
 
