@@ -67,7 +67,7 @@ cdf2 = df2.resample('D', on = 'Date').max()
 # Adding in the bonded ratio data from the other CSV file
 cdf2['Bonded_Ratio'] = br.values
 
-# Asking the user for the name for the 3rd and final CSV file
+# Asking the user for the name of 3rd and final CSV file
 name = input("Final CSV title: ")
 
 # Finalizing the CSV :)
