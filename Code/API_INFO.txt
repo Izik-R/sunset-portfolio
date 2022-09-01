@@ -39,6 +39,10 @@
 	TX: https://api.cosmoscan.net/transactions/fee/agg?by=day&from=1656702000&to=1659294000
 
 8/1/2022 - 8/31/2022
+	BR: https://api.cosmoscan.net/bonded-ratio/agg?by=day&from=1659355200&to=1661947200
+	MP: https://api.coingecko.com/api/v3/coins/cosmos/market_chart/range?vs_currency=usd&from=1659355200&to=1661947200
+	TX: https://api.cosmoscan.net/transactions/fee/agg?by=day&from=1659355200&to=1661947200
+
 9/1/2022 - 9/30/2022
 10/1/2022 - 10/31/2022
 11/1/2022 - 11/30/2022
