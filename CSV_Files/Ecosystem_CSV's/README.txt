@@ -1,0 +1,1 @@
+# These CSV files are from the CoinGecko API
