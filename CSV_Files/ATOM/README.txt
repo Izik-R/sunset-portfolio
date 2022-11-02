@@ -1,1 +1,1 @@
-# These files are from the atomapi.py program in the 'Code' folder
+# These files are from various scripts in the 'Reporting' folder under the 'Code' directory - https://github.com/Izik-R/portfolio/tree/main/Code/Reporting
