@@ -4,7 +4,7 @@
 
 # For API info please see the API_INFO.txt file in this repository
 
-# Please see my Medium posts for reports on the data generated from my python programs :) - https://medium.com/@izik_66261
+# Please see my Medium posts for reports on the data generated from my python programs :) - https://medium.com/@izik-r
 
 # My data and programs are used for me and others who read my post to understand and interpret the current status of certain cryptocurrency assets (Within the Cosmos Ecosystem). 
 
