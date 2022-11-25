@@ -2,10 +2,10 @@ import requests
 import pandas as pd
 import datetime
 
-headers = {
-    'Accept': 'application/json',
-    'Content-Type': 'application/json'
-}
+# headers = {
+#     'Accept': 'application/json',
+#     'Content-Type': 'application/json'
+# }
 
 link = f'https://api-osmosis.imperator.co/apr/v2/all'
 
