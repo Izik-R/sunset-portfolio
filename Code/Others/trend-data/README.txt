@@ -1,0 +1,1 @@
+## This program runs google trends data on keywords related to the Cosmos ecosystem
