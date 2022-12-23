@@ -1,1 +1,1 @@
-## This program runs google trends data on keywords related to the Cosmos ecosystem
+## This program runs google trends data on keywords related to the Cosmos ecosystem, then appends it to a table in a MySQL server
